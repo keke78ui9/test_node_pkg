@@ -1,0 +1,25 @@
+{
+  "name": "mt-test-node",
+  "version": "1.0.0",
+  "description": "my first node pkg",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keke78ui9/test_node_pkg.git"
+  },
+  "keywords": [
+    "test",
+    "create",
+    "node",
+    "pkg"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keke78ui9/test_node_pkg/issues"
+  },
+  "homepage": "https://github.com/keke78ui9/test_node_pkg#readme"
+}
